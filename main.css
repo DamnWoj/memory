@@ -7,6 +7,11 @@ body
     font-size: 28px;
 }
 
+.container {
+	display: flex;
+	flex-direction: column;
+}
+
 a:link    { color: #209781; text-decoration: none; }
 a:visited { color: #209781; }
 a:active  { color: #209781; }
